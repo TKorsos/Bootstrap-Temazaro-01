@@ -1,0 +1,21 @@
+
+.p-custom {
+    padding: 1.75rem 0;
+}
+
+.mb-custom-first {
+    margin-bottom: 4rem;
+}
+
+.mb-custom-third {
+    margin-bottom: 3.5rem;
+}
+
+.color-custom-green {
+    background-color: rgb(69, 163, 15);
+    border-color: rgb(47, 148, 0)!important;
+}
+
+.border-color-custom-blue {
+    border-color: blue!important;
+}
